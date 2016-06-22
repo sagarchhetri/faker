@@ -15,7 +15,7 @@ nep:
                   ]
       middle_name: ["Bahadur", "Prasad", "Lal"]
       last_name: [
-                    "Adhikari", "Aryal", "Baral", "Basnet", "Bastola", "Basynat", "Bhandari", "Bhattarai", "Chettri", "Devkota", "Dhakal",
+                    "Adhikari", "Aryal", "Baral", "Basnet", "Bastola", "Basynat", "Bhandari", "Bhattarai", "Chhetri", "Devkota", "Dhakal",
                     "Dongol", "Ghale", "Gurung", "Gyawali", "Hamal", "Jung", "KC", "Kafle", "Karki", "Khadka", "Koirala", "Lama", "Limbu",
                     "Magar", "Maharjan", "Niroula", "Pandey", "Pradhan", "Rana", "Raut", "Sai", "Shai", "Shakya", "Sherpa", "Shrestha",
                     "Subedi", "Tamang", "Thapa"
@@ -36,11 +36,11 @@ nep:
                 "Ramechhap", "Rauswa", "Rautahat", "Rolpa", "Rupandehi", "Sankhuwasabha", "Sarlahi", "Sindhuli", "Sindhupalchok", "Sunsari", "Surket",
                 "Syangja", "Tanahu", "Terhathum"
               ]
-      city: ["Bhaktapur", "Biratnagar", "Birendranagar", "Birgunj", "Butwal", "Damak", "Dharan", "Gaur", "Gorkha", "Hetauda", "Itahari", "Janakpur", "Kathmandu", "Lahan", "Nepalgunj", "Pokhara"]
+      city: ["Bhaktapur", "Biratnagar", "Birendranagar", "Birgunj", "Butwal", "Damak", "Dharan", "Gaur", "Gorkha", "Hetauda", "Itahari", "Janakpur", "Kathmandu", "Lahan", "Nepalgunj", "Pokhara", "Bharatpur", "Kawasoti", "Gaindakot"]
       default_country: ["Nepal"]
     internet:
       free_email: ['worldlink.com.np', 'gmail.com', 'yahoo.com', 'hotmail.com']
-      domain_suffix: ['np', 'com', 'info', 'net', 'org']
+      domain_suffix: ['.com.np', '.edu.np', '.info.np', '.net.np', '.org.np']
     company:
       suffix: ['Pvt Ltd', 'Group', 'Ltd', 'Limited']
     phone_number:
