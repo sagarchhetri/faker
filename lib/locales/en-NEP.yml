@@ -36,7 +36,28 @@ nep:
                 "Ramechhap", "Rauswa", "Rautahat", "Rolpa", "Rupandehi", "Sankhuwasabha", "Sarlahi", "Sindhuli", "Sindhupalchok", "Sunsari", "Surket",
                 "Syangja", "Tanahu", "Terhathum"
               ]
-      city: ["Bhaktapur", "Biratnagar", "Birendranagar", "Birgunj", "Butwal", "Damak", "Dharan", "Gaur", "Gorkha", "Hetauda", "Itahari", "Janakpur", "Kathmandu", "Lahan", "Nepalgunj", "Pokhara"]
+      city: ["Amaragadhi","Anantalingeshwar","AnbuKhaireni","Api","Attariya","Babai","Badimalika","Bagchaur","Baglung",
+      "Bajrabarahi","Bandipur","Banepa","Banganga","Bansgadhi","Barahathwa","Bardaghat","Bardibas","Bedkot","Belauri","Belbari",
+      "Beldandi","Beltar-Basaha","Beni","Besisahar","Bhadrapur","Bhajani-Trishakti","Bhaktapur","Bhanu","Bharatpur","Bheriganga",
+      "Bherimalika","Bhimdatta","Bhimeshwar","Bhirkot","Bhojpur","Bhrikuti","Bidur","Biratnagar","Birendranagar","Birganj",
+      "Birtamod","Buddhabatika","Budhanilkantha","Butwal","Byas","Chainpur","Chandannath","Chandragiri","Chandrapur",
+      "Changunarayan","Chapakot","Chaurjahari","Chautara","Chireshwarnath","Chitrawan","Dakshinkali","Damak","DapchaKashikhanda",
+      "Dasharathchand","Deumai","Devchuli","Devdaha","Dhangadhi","Dhangadimai","Dhankuta","Dhanushadham","Dharan","Dhulikhel",
+      "Diktel","Dipayal-Silgadhi","Dodhara-Chandani","Dudhauli","Dudhkunda","Duhabi-Bhaluwa","Dullu","Gadhimai","Gaidakot",
+      "GaneshmanCharanath","Garuda","Gaur","Gauradaha","Gaushala","Ghodaghodi","Ghorahi","Godawari","Gokarneshwar","Golbazar",
+      "Gorkha","Gulariya","HanumannagarJoginimai","Hariwan","Hetauda","Ilam","Inaruwa","Ishwarpur","Itahari","Jaleshwar",
+      "Janakpur","Jayaprithvi","JhalariPipaladi","Jiri","Kageshwari-Manohara","Kalaiya","Kamalamai","Kamalbazar","Kanchanrup",
+      "Kankai","Kapilvastu","Karaputar","Karyabinayak","Katari","Kathmandu","Kawasoti","Khairahani","Khandbari","Kirtipur",
+      "Kohalpur","Kolhabi","KoshiHaraicha","Krishnanagar","Krishnapur","Kusma","Lahan","Lalbandi","Laliguras","Lalitpur","Lamani",
+      "LamkiChuha","Lekhnath","LetangBhogateni","Liwang","LumbiniSanskritik","Madhyabindu","Madhyanepal","MadhyapurThimi","Madi",
+      "Madi","Mahagadimai","Mahalakshmi","Malangwa","Mangalsen","Manthali","Mechinagar","Melamchi","Mirchaiya","Mithila","Musikot",
+      "Myanglung","Nagarjun","Nagarkot","Narayan","Narayani","Nepalganj","Nijgadh","Nilkantha","Pakhribas","Palumtar","Panauti",
+      "Panchkhal","Parashuram","Patan","PathariSanischare","Phidim","Pokhara","Pokhariya","Punarwas","Putalibazar","Pyuthan",
+      "Rainas","Rajapur","Rajbiraj","Ramdhuni-Bhasi","Ramechhap","Ramgram","Rampur","Rangeli","Rapti","Ratnanagar","Resunga",
+      "Sabaila","Sainamina","Sandhikharka","SanoshriTaratal","Sanphebagar","Saptakoshi","Shadanand","Shambhunath","Shani-Arjun",
+      "Shankharapur","Sharada","Shivaraj","Shivasatakshi","Shubhaghat-Gangamala","Shuklagandaki","Siddharthanagar","Siddhicharan",
+      "Simraunghad","Siraha","Sukhipur","SundarDulari","Sundarbazar","Sunwal","Suryabinayak","Suryodaya","Tansen","Taplejung",
+      "Tarakeshwar","Thaha","Tikapur","Tilottama","Tokha","Tripur","Triyuga","Tulsipur","Urlabari","Waling"]
       default_country: ["Nepal"]
     internet:
       free_email: ['worldlink.com.np', 'gmail.com', 'yahoo.com', 'hotmail.com']
